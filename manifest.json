@@ -5,7 +5,7 @@
     "version": "1.0",
     "action": {
       "default_popup": "popup.html",
-      "default_icon": "assests/icon.png"
+      "default_icon": "assests/C.png"
     },
     "permissions": [
       "storage"
